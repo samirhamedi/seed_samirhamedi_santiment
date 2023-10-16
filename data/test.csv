@@ -1,0 +1,111 @@
+
+    "_id": {
+        "$oid": "63d9faec97111923081d575c"
+    },
+    "name": "UBL2",
+    "blocked": false,
+    "allowed_deals_on_same_pair": 1,
+    "max_active_deals": 3,
+    "maxActiveDealsPerList": 2,
+    "take_profit": {
+        "$numberDecimal": "3"
+    },
+    "max_safety_orders": 2,
+    "profit_currency": "base_currency",
+    "__v": 0,
+    "createdAt": {
+        "$date": "2020-12-18T20:05:08.188Z"
+    },
+    "setting": " MAF_[1.7]_[16.6]_[7]_maxAllowedMAF,1\n  UTP2_-10.8,1\n UTP_MAF1,0.2\n",
+    "updatedAt": {
+        "$date": "2023-10-16T15:11:40.484Z"
+    },
+    "whiteListPairs": [],
+    "holdup": 2,
+    "lastExecutedTime": 1697469100484,
+    "safety_order_step_percentage": {
+        "$numberDecimal": "1.5"
+    },
+    "martingale_volume_coefficient": {
+        "$numberDecimal": "2"
+    },
+    "martingale_step_coefficient": {
+        "$numberDecimal": "3.4"
+    },
+    "stop_loss_percentage": null,
+    "cooldown": 5,
+    "btc_price_limit": 0,
+    "strategy": "long",
+    "min_price": 0,
+    "max_price": {
+        "$numberDecimal": "0"
+    },
+    "stop_loss_timeout_enabled": true,
+    "stop_loss_timeout_in_seconds": 49,
+    "active_safty_orders_counts": "1",
+    "trailing_deviation": {
+        "$numberDecimal": "0.75"
+    },
+    "cautious": false,
+    "allowAllPairs": true,
+    "simpleMode": false,
+    "active_safety_orders_count": "1",
+    "lastRecievedTime": {
+        "USDT_ICP": 1691731164129,
+        "USDT_DOGE": 1697458026894,
+        "USDT_XRP": 1697218569438,
+        "USDT_PYR": 1694605195008,
+        "USDT_MLN": 1697401205731,
+        "USDT_AXS": 1696304919551,
+        "USDT_LSK": 1685475911132,
+        "USDT_ALPACA": 1684532766435,
+        "USDT_IOTX": 1684543149780,
+        "USDT_CTK": 1697118714237,
+        "USDT_LINK": 1692827828452,
+        "USDT_ALCX": 1697142168333,
+        "USDT_INJ": 1697397685729,
+        "USDT_GLMR": 1683522016199,
+        "USDT_BTS": 1697135135931,
+        "USDT_ENS": 1684028738011,
+        "USDT_BAND": 1697148606357,
+        "USDT_AUCTION": 1697345436260,
+        "USDT_UTK": 1696522115598,
+        "USDT_ERN": 1696870028643,
+        "USDT_ANT": 1696722365637,
+        "USDT_GHST": 1696502616555,
+        "USDT_FLM": 1695170709436,
+        "USDT_BTC": 1697087405918,
+        "USDT_ORN": 1697339365027,
+        "USDT_SFP": 1697165046347,
+        "USDT_TOMO": 1697456066779,
+        "USDT_ETC": 1696841473283,
+        "USDT_ALGO": 1697469100484,
+        "USDT_TRX": 1687091347053,
+        "USDT_XMR": 1697456347103,
+        "USDT_RPL": 1697079202558,
+        "USDT_WIN": 1697378665209,
+        "USDT_RIF": 1697212085647,
+        "USDT_KMD": 1697400578979,
+        "USDT_MATIC": 1697212416865,
+        "USDT_SOL": 1696853712807,
+        "USDT_AVAX": 1697345473172,
+        "USDT_ONG": 1697120255951,
+        "USDT_AKRO": 1697447093597,
+        "USDT_ELF": 1697399735629,
+        "USDT_AGLD": 1696698407726,
+        "USDT_ALPHA": 1695038105630,
+        "USDT_FET": 1697386767366,
+        "USDT_DOT": 1697016368015,
+        "USDT_AMP": 1696901647382,
+        "USDT_SYN": 1697155355915,
+        "USDT_ATOM": 1697132273057,
+        "USDT_NMR": 1696949653668,
+        "USDT_FIS": 1697378376032,
+        "USDT_API3": 1697051007832,
+        "USDT_PEPE": 1696853137193,
+        "USDT_DREP": 1696873025582,
+        "USDT_FARM": 1697227515095,
+        "USDT_AERGO": 1696987685647,
+        "USDT_ETH": 1697137746027,
+        "USDT_SNT": 1697146805636
+    }
