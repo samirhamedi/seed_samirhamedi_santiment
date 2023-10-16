@@ -16,7 +16,8 @@
         "Ethereum sentiment positive total",
         "Ethereum social dominance total",
         "Ethereum social volume total",
-        "Ethereum unique social volume total"
+        "Ethereum unique social volume total",
+        "test"
     ],
     "pricescale": [
         1,
@@ -33,6 +34,7 @@
         1000000000000000,
         1000000000000000,
         1000000000000000,
+        1,
         1,
         1
     ],
@@ -52,6 +54,7 @@
         "ETH_SENTIMENT_POSITIVE_TOTAL",
         "ETH_SOCIAL_DOMINANCE_TOTAL",
         "ETH_SOCIAL_VOLUME_TOTAL",
-        "ETH_UNIQUE_SOCIAL_VOLUME_TOTAL"
+        "ETH_UNIQUE_SOCIAL_VOLUME_TOTAL",
+        "test"
     ]
 }
